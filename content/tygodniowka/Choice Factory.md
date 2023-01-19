@@ -1,0 +1,1 @@
+Zdaje się, że czytałem tę książkę w 2020 roku... nie pamiętam jej. Nie pamiętam, abym ją czytał.
