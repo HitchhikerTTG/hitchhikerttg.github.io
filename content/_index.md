@@ -1,5 +1,5 @@
 ---
-title: 🪴 Quartz 3.
+title: 🪴 Quartz 3 played around by Wit. If Works.
 enableToc: false
 ---
 
