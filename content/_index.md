@@ -9,8 +9,8 @@ To, co chciałbym, osiągnąć, to spróbować przedstawić dane zebrane w tygod
 Najnowsze tygodniówki:
 
 ### 2023
-- [1 (tę liczbę jeszcze poprawię) - Po krótkiej przerwie](tygodniowka/01_2020)
-- [2 (tę też) - Prawie na czas](tygodniowka/01_2020)
+- [1 (tę liczbę jeszcze poprawię) - Po krótkiej przerwie](tygodniowka/01_2023)
+- [2 (tę też) - Prawie na czas](tygodniowka/02_2023)
 
 Lista dotychczas „przepisanych” wydań:
 
