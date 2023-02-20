@@ -11,6 +11,7 @@ Najnowsze tygodniówki:
 ### 2023
 - [1 (tę liczbę jeszcze poprawię) - Po krótkiej przerwie](tygodniowka/01_2023)
 - [2 (tę też) - Prawie na czas](tygodniowka/02_2023)
+- [[Tygodniowka 3cia, pisana w tygodniu dziewiątym]] - 👨🏼‍🔧Working copy
 
 Lista dotychczas „przepisanych” wydań:
 

@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "f40f805373cbe31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "27927b18225ab09f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e87410656b0b759a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ae057ec1ecebba0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "61dfb6e57bd05ad7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "29e657a074cf04c1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "561efec371a5526c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "96ea4edd0b9bc542",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b4be7db076f583d2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "340aa42dcb36f69d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "content/_index.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a49156373e289ee8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "content/_index.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a0d919fd664f1367",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "content/_index.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e87410656b0b759a",
+  "lastOpenFiles": [
+    "content/tygodniowka/This is just the begining.md",
+    "content/tygodniowka/01_2020.md",
+    "content/tygodniowka/Tygodniowka 3cia, pisana w tygodniu dziewiątym.md",
+    "content/tygodniowka/eksperymenty.md"
+  ]
+}
